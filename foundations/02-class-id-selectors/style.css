@@ -1,0 +1,19 @@
+.para {
+    background-color: rgba(255, 194, 204, 0.8);
+    font-family: Verdana, "DeJaVu Sans", sans-serif;
+}
+
+.uniq {
+    font-size: 24px;
+}
+
+#frst {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#scnd {
+    background-color: #8eec8efa;
+    font-size: 24px;
+    font-weight: bold;
+}
